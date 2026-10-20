@@ -5,3 +5,4 @@ Proje Yazarı: Emir Altay
 olacak bir dijital asistan tasarlamak
 ##Projenin Hedefleri: Bu asistanın ilerleyen zamanlarda hangi özellikleri kazanacağını
 (örneğin v1.0 Akıllı Menü, v2.0 Veri Saklama) maddeler hâlinde yazınız.
+
